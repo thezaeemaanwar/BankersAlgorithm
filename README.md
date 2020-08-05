@@ -6,6 +6,8 @@ To run on linux OS,
 sudo g++ bankersAlgorithm.cpp
 ./a.out
 </code>
+</pre>
+<pre>
 OR
 <code>
 sudo g++ -o run bankersAlgorithm.cpp
