@@ -7,8 +7,9 @@ sudo g++ bankersAlgorithm.cpp
 ./a.out
 </code>
 </pre>
-<pre>
+
 OR
+<pre>
 <code>
 sudo g++ -o run bankersAlgorithm.cpp
 ./run
